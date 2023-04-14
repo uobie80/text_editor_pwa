@@ -40,4 +40,8 @@ THEN I should have proper build scripts for a webpack application
 
 ## Mock Up Page
 
+Mock up of the Text Editor App
+![Text Editor App](./client/src/images/text_editor_home.png?raw=true "Text Editor App")
+
 ## Link to Text Editor
+
