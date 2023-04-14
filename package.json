@@ -21,10 +21,11 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "webpack": "^5.79.0"
   },
-      "engines": {
+  "engines": {
     "node": "16.x",
-    "npm":"8.x"
+    "npm": "8.x"
   }
 }
