@@ -45,3 +45,4 @@ Mock up of the Text Editor App
 
 ## Link to Text Editor
 
+Please refer to the following link to access my Text Editor app.[Text Editor Website](https://uchenna-text-editor.herokuapp.com/)
